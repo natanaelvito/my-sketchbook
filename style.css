@@ -156,8 +156,9 @@ i {
 /* Pages */
 .page-img {
     width: 333px;
-    height: auto;
+    height: 483px;
     max-width: auto;
     max-height: auto;
     object-fit: contain;
+    border: 1px solid silver;
 }
